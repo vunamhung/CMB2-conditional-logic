@@ -1,0 +1,19 @@
+{
+  "name": "cmb2-conditional-logic",
+  "version": "1.0.0",
+  "description": "A small jQuery plugin for handling conditional logic fields for CMB2.",
+  "main": "cmb2-conditional-logic.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vunamhung/CMB2-conditional-logic.git"
+  },
+  "keywords": [
+    "cmb2"
+  ],
+  "author": "awran5",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vunamhung/CMB2-conditional-logic/issues"
+  },
+  "homepage": "https://github.com/vunamhung/CMB2-conditional-logic#readme"
+}
